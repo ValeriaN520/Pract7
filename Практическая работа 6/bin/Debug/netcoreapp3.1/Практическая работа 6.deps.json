@@ -1,0 +1,33 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Практическая работа 6/1.0.0": {
+        "runtime": {
+          "Практическая работа 6.dll": {}
+        }
+      },
+      "Практическая работа 5/1.0.0": {
+        "runtime": {
+          "Практическая работа 5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Практическая работа 6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Практическая работа 5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

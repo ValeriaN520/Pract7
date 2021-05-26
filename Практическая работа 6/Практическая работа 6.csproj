@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Практическая_работа_6</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="\\192.168.0.131\студент_доступ\!!!ИСиП\ИСиП 20-11-1\!Практика\Арама Анастасия\Практическая работа 5\Практическая работа 5.csproj" />
+  </ItemGroup>
+
+</Project>
